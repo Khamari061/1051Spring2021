@@ -6,7 +6,7 @@ Comic Quest
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-
+A text based Adventure game that will have various outcomes depending on player choice.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
