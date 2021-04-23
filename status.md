@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Khamari Thornton
 
 #### Your section leader's name
 
-TODO
+Andrew Rosen
 
 #### Project title
 
-TODO
+Comic Quest
 
 ***
 
@@ -18,12 +18,11 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+We have completed the scenario script for the project and most of the scenarios have be run.
 
 #### What have you not done for your project yet?
-
-TODO
+Input all of the images in the game project.
 
 #### What problems, if any, have you encountered?
 
-TODO
+As of right now we have had some issues with allowing the images being displayed after any given scenario is run and the player has reached an ending.
